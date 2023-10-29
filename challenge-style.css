@@ -1,0 +1,9 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+}
+
+h1, h2, h3 {
+    color: #bb1b47;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
